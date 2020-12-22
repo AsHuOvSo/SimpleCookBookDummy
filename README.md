@@ -7,11 +7,7 @@ Har ikke nået:
 
 switch
 
-Exceptions (try/catch)
-
 GUI
-
-Persistens (gemme i- / læse fra en fil)
 
 Unit test (jUnit assertions)
 
